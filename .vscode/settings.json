@@ -51,5 +51,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "VR Accident Investigation Scenario.sln"
+    "dotnet.defaultSolution": "VR-Accident-Investigation.sln"
 }
